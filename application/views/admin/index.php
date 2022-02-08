@@ -40,7 +40,7 @@
 
                   <p>Daftar Siswa</p>
                 </div>
-                <div class="">
+                <div class="icon">
                   <i class="fas fa-user-graduate"></i>
                 </div>
                 <a href="<?= base_url('admin/tsiswa');?>" class="small-box-footer">More info <i
